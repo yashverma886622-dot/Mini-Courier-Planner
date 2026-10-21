@@ -64,10 +64,10 @@ Results generated in the verified Python 3.13.14 run (seconds):
 
 | Input size | Merge Sort | Knapsack DP | Dijkstra |
 | ---: | ---: | ---: | ---: |
-| 10 | 0.000005 | 0.000040 | 0.000009 |
-| 50 | 0.000036 | 0.000196 | 0.000083 |
-| 100 | 0.000079 | 0.000433 | 0.000254 |
-| 200 | 0.000533 | 0.000903 | 0.000721 |
+| 10 | 0.000009 | 0.000079 | 0.000017 |
+| 50 | 0.000066 | 0.000247 | 0.000155 |
+| 100 | 0.000156 | 0.000759 | 0.000392 |
+| 200 | 0.000329 | 0.001378 | 0.000828 |
 
 The reproducible outputs are `images/performance_results.csv` and `images/runtime_chart.png`; regenerate them with `python -m src.performance`.
 
