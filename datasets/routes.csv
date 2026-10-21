@@ -1,0 +1,9 @@
+source,destination,distance
+Warehouse,A,4
+Warehouse,B,2
+Warehouse,D,12
+A,B,1
+A,C,5
+B,C,8
+B,D,10
+C,D,2
