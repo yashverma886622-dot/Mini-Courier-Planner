@@ -91,5 +91,7 @@ requirements.txt                 Runtime dependency list
 
 ## GitHub Submission
 
-Review the working tree, run the loader, application, test suite, and benchmark, then commit the reviewed submission. Before final submission, create the required tag `v1.0-final-submission` on the intended commit. No remote repository has been created and no code has been pushed.
+The project is maintained in the public GitHub repository:
+https://github.com/yashverma886622-dot/Mini-Courier-Planner
 
+The source code, datasets, notebook, documentation, tests, and performance results have been pushed to the `main` branch. The repository is ready for final review and submission through the LMS/Zosima portal.
